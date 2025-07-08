@@ -16,7 +16,7 @@ Key words: Immune cell differentiation, Transcriptional regulation, Chromatin ac
 
 References: 
 - Yoshida et al. (2019) 
-- Further references: see GitHub repository
+- Further references: see [references.md](https://github.com/Laila-2345/README_open_immune_cells_ab_gd_T/blob/main/references.md)
 
 
 ## Key questions
@@ -65,11 +65,11 @@ Code development and troubleshooting were assisted by AI-based tools such as Cha
 
 Raw data sets:
 
-[ATAC](https://sharehost.hms.harvard.edu/immgen/ImmGenATAC18_AllOCRsInfo.csv)
-[RNA](https://www.cell.com/cms/10.1016/j.cell.2018.12.036/attachment/4392da81-c56e-471a-b1df-0e72f03ecd77/mmc2.csv)
-[QC](https://www.cell.com/cms/10.1016/j.cell.2018.12.036/attachment/e5df7329-d77d-40b3-a03a-34bdbe4b402c/mmc1.xlsx)
-[exon/TSS loc](http://hgdownload.cse.ucsc.edu/goldenPath/mm10/database/refFlat.txt.gz)
-The columns in this file are: Gene Name , Transcript Name, Chromosome, Strand, 5' transcript Start, 3' Transcript Start, Coding Region 5' Start, Coding Region 3' Start, Exon Count, Exon Starts, Exon Ends
+- [ATAC](https://sharehost.hms.harvard.edu/immgen/ImmGenATAC18_AllOCRsInfo.csv)
+- [RNA](https://www.cell.com/cms/10.1016/j.cell.2018.12.036/attachment/4392da81-c56e-471a-b1df-0e72f03ecd77/mmc2.csv)
+- [QC](https://www.cell.com/cms/10.1016/j.cell.2018.12.036/attachment/e5df7329-d77d-40b3-a03a-34bdbe4b402c/mmc1.xlsx)
+- [exon/TSS loc](http://hgdownload.cse.ucsc.edu/goldenPath/mm10/database/refFlat.txt.gz)
+- The columns in this file are: Gene Name , Transcript Name, Chromosome, Strand, 5' transcript Start, 3' Transcript Start, Coding Region 5' Start, Coding Region 3' Start, Exon Count, Exon Starts, Exon Ends
 
 
 ## Results
