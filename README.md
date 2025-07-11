@@ -1,4 +1,5 @@
-# abT-gdT-cells-Team3
+# Cis-Regulatory Elements Shape Chromatin and Gene Expression Programs in αβ and γδ T Cells
+Frisius, Laila; Kentschke, Pia; Mennenöh, Helen; von Volkmann, Kaja
 
 ## Introduction
 
